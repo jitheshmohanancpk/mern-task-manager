@@ -8,3 +8,8 @@ How to Run:
 2. .env
 3. npm run dev
 4. API Endpoints: (Login, Signup, CRUD)
+
+Login Page Front-end
+
+"email": "jithesh@example.com",
+"password": "password123"
